@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mel and Rob's travel blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Robert and Melike`,
+      summary: `a husband and wife from opposite ends of the Earth wishing to share travel stories.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to document our adventures.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `melandrob`,
     },
   },
   plugins: [
