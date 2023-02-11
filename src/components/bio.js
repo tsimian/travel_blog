@@ -49,8 +49,9 @@ const Bio = () => {
           <a
             href={`https://instagram.com/${social?.instagram || ``}`}
             target="_blank"
+            rel="noreferrer"
           >
-            You should follow us on Instagram!
+            Follow us on Instagram!
           </a>
         </p>
       )}

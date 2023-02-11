@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -36,6 +37,10 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
+                {/* <GatsbyImage
+                  image={getImage(post.frontmatter.cover_image)}
+                  alt={post.frontmatter.title}
+                /> */}
                 <header>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
@@ -87,6 +92,17 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          cover_image {
+            childImageSharp {
+              gatsbyImageData(
+                width: 200
+                blurredOptions: { width: 100 }
+                placeholder: BLURRED
+                transformOptions: { cropFocus: CENTER }
+                aspectRatio: 0.7
+              )
+            }
+          }
         }
       }
     }
