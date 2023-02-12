@@ -31,16 +31,17 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <li key={post.fields.slug}>
+            <li key={post.fields.slug} className="card">
               <article
                 className="post-list-item"
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                {/* <GatsbyImage
+                <GatsbyImage
                   image={getImage(post.frontmatter.cover_image)}
+                  className="cover-img"
                   alt={post.frontmatter.title}
-                /> */}
+                />
                 <header>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
@@ -99,7 +100,7 @@ export const pageQuery = graphql`
                 blurredOptions: { width: 100 }
                 placeholder: BLURRED
                 transformOptions: { cropFocus: CENTER }
-                aspectRatio: 0.7
+                aspectRatio: 0.8
               )
             }
           }
