@@ -314,10 +314,6 @@ a:focus {
   border-radius: 50%;
 }
 
-.bio-avatar > picture > img {
-  border-radius: 50%;
-}
-
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
