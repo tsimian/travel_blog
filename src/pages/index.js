@@ -41,6 +41,7 @@ const BlogIndex = ({ data, location }) => {
                   image={getImage(post.frontmatter.cover_image)}
                   className="cover-img"
                   alt={post.frontmatter.title}
+                  imgStyle={{ borderRadius: "10px" }}
                 />
                 <header>
                   <h2>
