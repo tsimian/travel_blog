@@ -7,7 +7,7 @@ cover_image: "../../../src/images/rome/IMG-3727.jpg"
 
 ### **The Colosseum, the Forum and more**
 
-So if you just landed in Rome, or are planning a trip, you already know you are very likely going to the main attractions. Start maybe with a trip to the Colosseum, where you can also see the Roman Forum, the ancient meeting place in the center of ancient Rome. The ticket comes paired with the Colosseum so it is worth the time. While you are in the area, it is worth the trip to go up to the Farnese Botanical gardens and explore Palatine hill. It is one of Rome’s seven hills, and it’s most famous. According to Roman myth, there is the location of the cave where a wolf found the brothers Remus and Romulus. It was Romulus who would go on to found the city of Rome.
+So if you just landed in Rome, or are planning a trip, you already know you are very likely going to the main attractions. Start maybe with a trip to the Colosseum, where you can also see the Roman Forum, what was once the center of ancient Rome. The ticket comes paired with the Colosseum so it is worth the time. While you are in the area, it is worth the trip to go up to the Farnese Botanical gardens and explore Palatine hill. It is one of Rome’s seven hills, and it’s most famous. According to Roman myth, there is the location of the cave where a wolf found the brothers Remus and Romulus. It was Romulus who would go on to found the city of Rome.
 
 ![Pantheon](../../../src/images/rome/IMG-3725.jpg) - _The Pantheon_
 
