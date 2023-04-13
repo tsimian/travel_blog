@@ -1,5 +1,5 @@
 ---
-title: "Post One: Wherever we Rome"
+title: "Post One: Rome"
 date: "2023-02-12"
 description: "After that first taste we agreed we will go back to Italy, we did, and we will go back many more times."
 cover_image: "../../../src/images/rome/IMG-3727.jpg"
