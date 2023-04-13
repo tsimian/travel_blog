@@ -1,5 +1,5 @@
 ---
-title: "Post Two: Salzburg"
+title: "Salzburg"
 date: "2023-04-10"
 description: "Right as you get to Salzburg, you see the castles, walls, and forts around the city and notice the mountain air is a bit more fresh."
 cover_image: "../../../src/images/salzburg/DSC03795.jpg"
